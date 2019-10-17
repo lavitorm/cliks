@@ -1,6 +1,6 @@
 ![CLIKS](/screenshots/cliks.png)
-#
-CLIKS is a fullstack match making application using the Express package for Node.js and MySQL. It takes in parameters from users and gives back data.
+##
+### CLIKS is a fullstack match making application using the Express package for Node.js and MySQL. It takes in parameters from users and gives back data.
 
 ## Overview
 CLIKS is an environment for people to exchange knowledge and valuable experiences. Through networking that is genuinely diverse, people-oriented and purpose-driven, people united by common interests and goals share resources and information with the purpose of improving personal and collective results. 
