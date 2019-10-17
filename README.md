@@ -22,9 +22,13 @@ Note that for this version, data is not persistent, but rather stored in an obje
 # Instructions
 After cloning down the repo to your laptop, run `npm install` to download the Node dependencies.
 * Express
+* Express-session
 * MySql
+* Socket.io
+* Cookie-parser
 * Method-override
-Then, be sure to serve the app in `localhost:3000` in your browser.
+
+#### Then, be sure to serve the app in `localhost:3000` in your browser.
 
 # Screenshots/flow of navigation
 
