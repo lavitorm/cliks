@@ -10,6 +10,9 @@ CLIKS unites people only by interests in a purposeful context of engagement, enc
 
 This app uses Express to serve static HTML files and API routes to get and post data.
 
+#### This app uses Express to serve static HTML files and API routes to get and post data.
+![Home Page](/screenshots/app_arch_diagram.png)
+
 Note that for this version, data is not persistent, but rather stored in an object in `user.js` for your current session.
 
 ## Key app features
