@@ -8,8 +8,6 @@ CLIKS is an environment for people to exchange knowledge and valuable experience
 
 CLIKS unites people only by interests in a purposeful context of engagement, encouragement, development and growth in their priorities. It is a take and give environment where people find their path to move forward by supporting each other.
 
-This app uses Express to serve static HTML files and API routes to get and post data.
-
 #### This app uses Express to serve static HTML files and API routes to get and post data.
 ![Home Page](/screenshots/app_arch_diagram.png)
 
