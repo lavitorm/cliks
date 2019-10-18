@@ -20,7 +20,7 @@ Note that for this version, data is not persistent, but rather stored in an obje
 4. Request-response pattern
 5. Chat
 
-# Instructions
+## Instructions
 After cloning down the repo to your laptop, run `npm install` to download the Node dependencies.
 * Express
 * Express-session
@@ -31,7 +31,7 @@ After cloning down the repo to your laptop, run `npm install` to download the No
 
 #### Then, be sure to serve the app in `localhost:3000` in your browser.
 
-# Screenshots/flow of navigation
+## Screenshots/flow of navigation
 
 ### Login with your personal info to access the "user_setup" page
 ![Home Page](/screenshots/index.png)
